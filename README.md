@@ -1,7 +1,7 @@
-                                                                                 📇 My Smart Contact Manager (MySCM)
+📇 My Smart Contact Manager (MySCM)
 
-                                                      A full-featured web-based contact management application that helps users store, manage, and interact
-                                              with contacts securely and efficiently — with modern UI, social logins, dark/light theme support, and cloud integrations.
+A full-featured web-based contact management application that helps users store, manage, and interact with contacts securely and efficiently — with modern UI, social logins, dark/light theme support, and cloud integrations.
+
 
 
 🚀 Features
@@ -28,6 +28,8 @@
 | ✅ 18 | Submit feedback                                                 |
 
 
+
+
 🛠 Technologies Used
 
 | Category        | Tech                                                          |
@@ -40,6 +42,8 @@
 | Cloud Storage   | AWS S3 / Cloudinary                                           |
 | Authentication  | OAuth2 *(In Progress)*                                        |
 | Reporting       | PDF / Excel export tools                                      |
+
+
 
 
 ⚙️ Project Dependencies
@@ -58,21 +62,19 @@
 
 
 
+
 🌐 IDE Support
 
 You can use any of these IDEs:
 
 IntelliJ IDEA
-
 Spring Tool Suite (STS)
-
 Visual Studio Code
-
 NetBeans
 
 
-📤 Export Features
+
+📤 Export Features:
 
 Export contacts to Excel using Apache POI or similar libraries
-
 Future scope to include PDF export
